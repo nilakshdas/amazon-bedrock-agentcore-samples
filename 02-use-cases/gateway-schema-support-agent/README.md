@@ -17,6 +17,9 @@ Interact with the agent to create focused sub-schemas from large APIs (filtering
 - 📝 AI-enhanced descriptors for agent optimization
 - 🚀 One-click solution for complex API migrations
 
+## Demo
+![ICARUS Demo](.assets/ICARUS-demo.mp4)
+
 ## 🚀 Quick Start
 
 All deployment and management commands are available as `make` targets in the [Makefile](Makefile) for easy, one-click deployment.
