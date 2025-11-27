@@ -18,7 +18,7 @@ Interact with the agent to create focused sub-schemas from large APIs (filtering
 - 🚀 One-click solution for complex API migrations
 
 ## Demo
-![ICARUS Demo](.assets/ICARUS-demo.mp4)
+![ICARUS Demo](.assets/ICARUS-demo.gif)
 
 ## 🚀 Quick Start
 
