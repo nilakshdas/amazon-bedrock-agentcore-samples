@@ -63,7 +63,7 @@ make delete
 
 ## 🏗️ Architecture
 
-![ICARUS Architecture](.assets/architecture.png)
+![ICARUS Architecture](.assets/architecture-flow.png)
 
 ICARUS is built using the [Strands Agent SDK](https://github.com/strands-agents/sdk-python) and deployed on AWS infrastructure (see [cfn.yaml](cfn.yaml)):
 
@@ -73,3 +73,7 @@ ICARUS is built using the [Strands Agent SDK](https://github.com/strands-agents/
 - **Amazon CloudWatch** - Provides logging and monitoring
 - **Amazon S3** - Stores application code and artifacts
 - **AWS IAM** - Manages permissions and access control
+
+## Example API Specifications
+- [Adobe API Spec](.assets/sample-spec/adobe-io-events.yaml)
+
